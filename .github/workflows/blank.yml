@@ -10,7 +10,7 @@ on:
   
   # cron
   schedule:
-    - cron: 0 8 * * mon-fri
+    - cron: 0 7 * * mon-fri
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

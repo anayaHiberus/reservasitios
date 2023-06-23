@@ -7,8 +7,8 @@
 ############# Configuration #############
 
 # fill DNI, or PASSPORT
-DNI=
-PASSPORT=PRIVATE
+DNI=$DNI
+PASSPORT=$PASSWORD
 
 # folder with the driver (download from https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference )
 DRIVER_FOLDER=.

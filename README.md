@@ -1,4 +1,4 @@
-# reservasitios
+# automatic reservasitios
 
 For https://reservasitios.demohiberus.com/
 

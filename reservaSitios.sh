@@ -8,7 +8,7 @@
 
 # fill DNI, or PASSPORT
 DNI=$DNI
-PASSPORT=$PASSWORD
+PASSPORT=$PASSPORT
 
 # folder with the driver (download from https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference )
 DRIVER_FOLDER=.

@@ -7,8 +7,8 @@
 ############# Configuration #############
 
 # fill DNI, or PASSPORT
-DNI=
-PASSPORT=PRIVATE
+DNI=$DNI
+PASSPORT=$PASSPORT
 
 # folder with the driver (download from https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/#quick-reference )
 DRIVER_FOLDER=.
@@ -17,7 +17,7 @@ DRIVER_FOLDER=.
 DEBUG=False
 
 # command to run if an error occurs
-ON_ERROR="echo error"
+ON_ERROR="exit 1"
 
 ############# End Configuration #############
 

@@ -17,7 +17,7 @@ DRIVER_FOLDER=.
 DEBUG=False
 
 # command to run if an error occurs
-ON_ERROR="echo error"
+ON_ERROR="exit 1"
 
 ############# End Configuration #############
 

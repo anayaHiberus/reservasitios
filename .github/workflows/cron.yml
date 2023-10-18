@@ -17,6 +17,5 @@ jobs:
 
       - name: Run reservaSitios.sh
         env:
-          DNI: ${{ secrets.DNI }}
-          PASSPORT: ${{ secrets.PASSPORT }}
+          USERNAME: ${{ secrets.USERNAME }}
         run: bash ./reservaSitios.sh

@@ -7,7 +7,7 @@ on:
   
   # cron
   schedule:
-    - cron: 0 6 * * mon-fri # will run at 7/8 madrid time
+    - cron: 0 8 * * mon-fri # will run at 9/10 madrid time
 
 jobs:
   script:

@@ -2,7 +2,7 @@
 
 For https://reservasitios.demohiberus.com/
 
-Will mark yourself as present everyday at 8pm. An existing reservation needs to already exists.
+Will mark yourself as present everyday in the morning. An existing reservation needs to already exists.
 
 ## Automatic usage
 
